@@ -6,7 +6,8 @@ Public images used in Baltic Assist IT emails (Monitor Health Check templates).
 |---|---|
 | `tiles/art-pastel-monitor.png` | Monitor card icon |
 | `tiles/art-pastel-calendar.png` | Due-date card icon |
-| `logo/ba-logo-blue.png` | Email logo (one blue for both words, readable on white and on Outlook dark mode) |
+| `logo/ba-logo-navy.png` | Email logo (brand navy for both words, red tick) |
+| `logo/ba-logo-blue.png` | Earlier email logo (lighter blue, readable in Outlook dark mode) |
 | `logo/ba-logo-halo.png` | Earlier email logo with white halo (kept so older emails still show it) |
 | `logo/ba-logo-dark.png` | Email logo for dark mode (all white: tick and lettering) |
 
