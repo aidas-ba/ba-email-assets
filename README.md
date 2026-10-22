@@ -6,6 +6,8 @@ Public images used in Baltic Assist IT emails (Monitor Health Check templates).
 |---|---|
 | `tiles/art-pastel-monitor.png` | Monitor card icon |
 | `tiles/art-pastel-calendar.png` | Due-date card icon |
+| `logo/ba-logo-halo.png` | Email logo (thin white halo, readable if a mail client darkens the page) |
+| `logo/ba-logo-dark.png` | Email logo for dark mode (all white: tick and lettering) |
 
 Emails link to these files directly:
 `https://raw.githubusercontent.com/aidas-ba/ba-email-assets/main/tiles/<file>`
